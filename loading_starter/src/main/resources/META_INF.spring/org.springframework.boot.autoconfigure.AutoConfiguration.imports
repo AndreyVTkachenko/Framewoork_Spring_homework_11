@@ -1,0 +1,3 @@
+ru.gb.logging.LoggingAutoConfiguration
+ru.gb.timer.TimerAutoConfiguration
+ru.gb.recover.RecoverAutoConfiguration
